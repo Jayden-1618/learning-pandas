@@ -1,6 +1,6 @@
-# Pandas Functions - Complete and Categorized
+# Pandas Functions -Essential and Categorized
 
-This file categorizes and lists essential **Pandas functions** to help track my learning journey and serve as a quick reference.
+This file categorizes and lists essential **Pandas functions** for me to learn in pandas. list curated from chatGPT.
 
 ---
 
@@ -147,4 +147,4 @@ This file categorizes and lists essential **Pandas functions** to help track my 
 Feel free to contribute or suggest improvements as I continue my Pandas learning journey!
 
 
-git add . && git commit -m "Your commit message here" && git push origin main
+
