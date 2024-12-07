@@ -4,5 +4,3 @@ The goal is to build a strong foundation in Pandas to tackle more advanced data 
 
 "Learning is never complete; there's always something new to discover about any subject vast enough." 
 
-### Datasets used (as of now)
-  pokemom database : source kaggle 
